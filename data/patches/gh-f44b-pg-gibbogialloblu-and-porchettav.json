@@ -1,0 +1,49 @@
+{
+	"id": -1,
+	"name": "PG-gibbogialloblù and porchettav",
+	"description": "A homage to a friend that is jokingly called pg, also we can see the flag of the small village from which he is from, Minerbe",
+	"links": {
+		"website": [
+			"https://www.comune.minerbe.vr.it/hh/index.php?jvs=0&acc=1",
+			"https://www.youtube.com/@gibbogialloblu1171"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-329,
+				640
+			],
+			[
+				-331,
+				640
+			],
+			[
+				-336,
+				640
+			],
+			[
+				-336,
+				635
+			],
+			[
+				-329,
+				636
+			],
+			[
+				-329,
+				635
+			],
+			[
+				-329,
+				635
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-333,
+			638
+		]
+	}
+}
