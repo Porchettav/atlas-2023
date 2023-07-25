@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "PG (short life)-gibbogialloblù and Porchettav",
+	"description": "This short lasting write eas one of the first prototypes of the pg stamp",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@gibbogialloblu1171"
+		]
+	},
+	"path": {
+		"206-207": [
+			[
+				1498,
+				201
+			],
+			[
+				1498,
+				193
+			],
+			[
+				1487,
+				193
+			],
+			[
+				1487,
+				201
+			]
+		]
+	},
+	"center": {
+		"206-207": [
+			1493,
+			197
+		]
+	}
+}
